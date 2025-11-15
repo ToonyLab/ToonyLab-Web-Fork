@@ -1,0 +1,18 @@
+Version:1
+By:ToonyLab
+Name:New Level
+Length:0
+Music:0
+Speed:1
+Zoom:8
+Background:1
+ColorTop:FE3C00FF
+ColorBot:FF0000FF
+Objects:
+3,0,0.00,0.00,0.00,1.00,1.00,FFFFFFFF,0,1.00,Force:False,Color:False,Flip:False,Rotation:False,Scale:False
+3,3,-8.00,-4.00,0.00,1.00,1.00,00FAD5FF,0,1.00,Force:False,Color:False,Flip:True,Rotation:True,Scale:True
+3,1,7.00,1.00,0.00,1.00,1.00,FFFFFFFF,0,1.00,Force:False,Color:False,Flip:True,Rotation:True,Scale:True
+1,0,2.00,4.00,0.00,1.00,1.00,FFFFFFFF,0,1.00,Force:False,Color:False,Flip:False,Rotation:False,Scale:True
+0,4,2.00,-3.00,0.00,1.00,1.00,FFFFFFFF,0,1.00,Force:False,Color:True,Flip:True,Rotation:True,Scale:True
+0,5,3.00,-3.00,0.00,1.00,1.00,FFFFFFFF,0,1.00,Force:False,Color:True,Flip:True,Rotation:True,Scale:True
+0,4,4.00,-3.00,0.00,1.00,1.00,FFFFFFFF,0,1.00,Force:False,Color:True,Flip:True,Rotation:True,Scale:True
